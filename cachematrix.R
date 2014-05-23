@@ -1,5 +1,5 @@
 ## Create a matrix object that can cache its inverse, then make a
-## function that can calculate and store the inverse in the cache or retieve the
+## function that can calculate and store the inverse in the cache or retrieve the
 ##inverse, if it has already been stored; storage happens in the parent environment.
 
 ## functions 
